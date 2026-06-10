@@ -2,7 +2,7 @@
 
 ## Datos del Estudiante
 
-* **Nombre:** Andrea Sagbay
+* **Nombre:** Andrea Sagbay.
 * **Curso:** De la Tarde
 * **Fecha:** 09/06/2026
 
