@@ -2,7 +2,7 @@ import java.util.ArrayDeque;
 
 public class Ejercicio1 {
 
-    /**
+    /*
      * Método que devuelve una cadena de texto invertida.
      * texto -> COMPUTACION
      * return -> NOICATUPMOC
